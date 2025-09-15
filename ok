@@ -1,0 +1,39 @@
+﻿{
+  "lives": [
+    {
+      "name": "TV",
+      "type": 0,
+      "url": "http://123.56.43.183/tv/TV.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
+    {
+      "name": "全部频道",
+      "type": 0,
+      "url": "http://123.56.43.183/tv/ALL-iptv.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
+    {
+      "name": "咪咕直播",
+      "type": 0,
+      "url": "http://123.56.43.183/tv/migu.txt",
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    },
+    {
+      "name": "体育赛程",
+      "type": 0,
+      "url": "http://123.56.43.183/tv/Sports.txt",
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com/"
+      },
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "playerType": 1
+    }
+           ]
+}
