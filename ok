@@ -3,7 +3,7 @@
     {
       "name": "TV",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/tv",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/tv",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
@@ -11,7 +11,7 @@
     {
       "name": "全部频道",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/iptv",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/iptv",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
@@ -19,7 +19,7 @@
     {
       "name": "咪咕直播",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/migu",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/migu",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
@@ -27,7 +27,7 @@
     {
       "name": "体育赛程",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/sports",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/sports",
       "header": {
         "Referer": "https://p.m82xg4z0cdbz7.com/"
       },
