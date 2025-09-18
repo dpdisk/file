@@ -1,5 +1,5 @@
 ﻿#EXTM3U 
-#影视「轮播」
+#•影视「轮播」
 #EXTINF:-1 tvg-logo="http://123.56.43.183/icon/huya.png" group-title="•影视「轮播」",速度与激情
 https://live.iill.top/huya/29982635
 #EXTINF:-1 tvg-logo="http://123.56.43.183/icon/huya.png" group-title="•影视「轮播」",周星驰
@@ -34,58 +34,52 @@ https://live.iill.top/huya/880261
 https://live.iill.top/huya/10871113
 #EXTINF:-1 tvg-logo="http://123.56.43.183/icon/huya.png" group-title="•影视「轮播」",金庸
 https://live.iill.top/huya/11342435
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="•影视「轮播」",CHC家庭影院
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNms3cGcwZ2RjaXh3Wk1idTFsOWRpeFRXZ3dnZUV0Tko5WGt1SkQ5VW9jQnlsbk80b0htZ28xa1FLUElnaHVIK2JqU3EzTHhvQU9FWXhBbXNQUThGMmExTHlJdFNCQzBsYnUvUU4wVElJWGorajBYZDVuaWcyT25IaGtKTjB1bGFnPQ%3D%3D
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="•影视「轮播」",CHC动作电影
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNXhXampVTWF2YUtEL1FycGViRFlzK2VLYkxqUjVaUnNIdzNLbGd4UFc3R09LUUVSMzg5WVhkVlF4RllJdllnLzcyOXE0U3BpZmJCRWZjbmE2OHJZbHNHYWhZSkwxWlVsdm5ZaUI3RWhCbFp1YmJRRXlOOUlFNFNiOVRxWUlVMUxzPQ%3D%3D
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="•影视「轮播」",CHC影迷电影
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNFI5QVJaZGp0aUxiT1FKQXgycXIrcUVhWitqSFdEOUhNNFlOWXBmblFpM1pDZWFkc053d2gvRTlHc0hBSHRPY3ZNNmlxeElwNG1yOWFWUnBJWXhsQmJxZXpXb2YzcERNazFZVnM2N0FMbVpXNDQyb040NHlISEtjT2tGOWxxQTVFPQ%3D%3D
-#影视「轮播」
+#•影视「轮播」
 
 
-#央视频道
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+#•央视「频道」
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="•央视「频道」",CCTV-1 综合
 https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNk9aSUxUbis5VHV6WUh6cTJrZmw0ODJ5ZlJuTGtuT0k1OTVjcDY5bjBkVlhzTVFwY3ZPd0R4Z2JwZ1VWbzY3MGUzb0pid3RWSE9GOFJlaTdGOUQ1cWo%3D
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="•央视「频道」",CCTV-2 财经
 https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN2hacUZUalFMalZycWE4T2VQcWtvOTZLa2Y2a0lrYkExTHlHcm5RR3E2RmFLZXhhUXY5ZEZKakluTG1hYnQrVzVRdVhLTi9KbjVqMzUyL20vYUJsdE0%3D
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="•央视「频道」",CCTV-3 综艺
 https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNGhaZXEvMitteEFINDFwR0pybWhEVE9rT202TW1BRnAxcGxaWFk4bExQbWRkclAwTmNET04wb3V3MDFTa0FRN2NIRnpoVG9rdUFiVDRLUHJud254OTI%3D
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="•央视「频道」",CCTV-4 中文国际
 https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNFJhdVUzenBmUVA2WWpmakVkZ1RhRmE1a09TU2gxamNERDBFT01JK1B1b2pMNTUvdGRXcENtTzdTUTZiY1FXMjZIdE1lYlNienNmeXVzeWJsZlJMUWM%3D
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNHZxREFWUm1yYkkwZFJrTEFDWEw5eG5xSU82S2NTcE90aHB4LzFnQlp5UFN1M2E5WXkyQ0hldG9zb0JKWktWVG41V2xVWHBKMm04b3RCcUlMY0RpWlo%3D
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNXdoWkF1bnhBdnowVTFxSVZ4RmhLZ3ZnczRjODl1aEJNc3E3MVNpTStodXIrUlFaeTVUU2lCakVKMmJ5WkhqdkdUaDM0dVRTTkFJQXd3SVQwSTVadno%3D
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN2tXSkhGbDBKRlBPRm9VVWkxcUJsaDVzMkJKdlBLT041ZVRscGxmMS9xRmpGMHJWU2REbllya09KVklxam4wald6RHV6Z2hua09XOXowTUNzQ0ZXRjQ%3D
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNmhjTGdwb3FKWW9jTGN1MERiWkNnNTdoZnN0ZnJmajlnZktVcDlVbHVYbVhIVndCOUlJaFJTT0YyUDlhc3MzMzMvdEJmTjk0Y0ZFcEtObXRtOU5nc0I%3D
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN3lxdXkwVHN3b1VEWVVvcU9JQUVUUHN5Ui9qNXJnbWFEM3FMM2Z4Vy8rWHRLOGpxVnA2RUc1VUlJN1BBYm1Db3AvOEZKZ0k2NkFjVkFPYW9LWCtSVXE%3D
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNUJvSVNaZ0Zad3VWOW94Z2R0a3VvNlk0blhEQmVyV25COUpKZjRMNXQwZTcwWjlvTUppTHdSc1lQaFJoSXJ6ZGovektTM0lmb1BRVElQR2NaSmdVenM%3D
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN3Vmc0JVd3J2ZzkyTWdGL0JWUUVGNlVSYTVlM1dnenBYaUdsTW9OVHZ2bW5iNGRmN3BaRXhGMi9MTHJ1N1B6Y2lSQ216dVc0N0hlZndhUThNSGhRcjc%3D
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNkc1bi9FVzRJbWNnbUl3VzloWmFwQ2pOSEZrL0NIdS9oMTlrYzdnK2lVbk1UZ3FPb0NYbStUc1lTcDM5TkxZZWdUcHh5eUFOWGQ1Z3lxOWVjeDB6Z3A%3D
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNjUrRGxXczJUVFFCYzlPUGhFUE1JK1JveWRUNnRERXQrand2TmduM1RXWHdIOTZpU2Y4a3QvUkhWYzVIQlk4R0pyK2dmWFM2ZVFxVUlmcURjNkpoZFY%3D
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNFNkMzRDNDJkTXlpUG5HdnBndGtKcksvQm1wTE5pOXpuazAzdU15N3NMb2JsakIxZzBaRGV4ZDNRbjlGbi9hTUgzOTZkdEVaQVBUZFJzZkdOMU9odlM%3D
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNXAxcGlkTitGTng1N01CaEZoQ0xMWjFwYnhVc2JzK1JFWTlNU3N5bUxmaG43U3ZodnExbmdpdW5vK1FkSmJpYldVSDZqNWpQU1VvYjFhQXBpNXZ4Mlc%3D
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN3A2eDNkcFJKNDkrTWcyL09SdUhER1MrL24vMjRDSTZkTXhhTlZyU3pDTitHWnhHQXE1ZXFlZ1owWm1QTTVwc0RYL2ZhT0hCUm9kbHg0TzZzV1BNTlg%3D
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNmxWbmZLaEhpbzFDb1ViUlVDbjRxZ0U1aDZwRnFhdXlrT1ZCVStNb3NYbVE4a1o3N3JIS1k5eG9hVDhld2ZFdG9TTXd3aU9Kc3lpZGtZdXBLNER1azg%3D
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 中文国际 欧洲
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png" group-title="•央视「频道」",CCTV-4 中文国际 欧洲
 https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNjg1c3l2MXlBSk81ZkxnTGM3cTloMUhoSkN1SlJoWVJzZjMyenJSUGorRlpqeUplUjlFRHFVR2htOG1mOTIxelY1c2V6ZVlySG1TWXlYZ0x2L0QrcUxpRGtNNENYc0ZmNXVyTkpGSGxuckZRPT0%3D
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 中文国际 美洲
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="•央视「频道」",CCTV-4 中文国际 美洲
 https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNVQyUTlUY096K1ZadjZGMEpkMUszOVIwbVN0YzJZOTlXSWMrdUZYUHB1c2RlV3ltWmVlM1NCbnVJMHVUMFJTWXZBOGdHMHY3WkJoaHozYldHWmJ0ZHJoYzZETTdYUEtLNWsxcGtEbm5jVUVBPT0%3D
-#央视频道
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="•央视「频道」",CCTV-5 体育
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNHZxREFWUm1yYkkwZFJrTEFDWEw5eG5xSU82S2NTcE90aHB4LzFnQlp5UFN1M2E5WXkyQ0hldG9zb0JKWktWVG41V2xVWHBKMm04b3RCcUlMY0RpWlo%3D
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="•央视「频道」",CCTV-5+ 体育赛事
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNXdoWkF1bnhBdnowVTFxSVZ4RmhLZ3ZnczRjODl1aEJNc3E3MVNpTStodXIrUlFaeTVUU2lCakVKMmJ5WkhqdkdUaDM0dVRTTkFJQXd3SVQwSTVadno%3D
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="•央视「频道」",CCTV-6 电影
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN2tXSkhGbDBKRlBPRm9VVWkxcUJsaDVzMkJKdlBLT041ZVRscGxmMS9xRmpGMHJWU2REbllya09KVklxam4wald6RHV6Z2hua09XOXowTUNzQ0ZXRjQ%3D
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="•央视「频道」",CCTV-7 国防军事
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNmhjTGdwb3FKWW9jTGN1MERiWkNnNTdoZnN0ZnJmajlnZktVcDlVbHVYbVhIVndCOUlJaFJTT0YyUDlhc3MzMzMvdEJmTjk0Y0ZFcEtObXRtOU5nc0I%3D
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="•央视「频道」",CCTV-8 电视剧
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN3lxdXkwVHN3b1VEWVVvcU9JQUVUUHN5Ui9qNXJnbWFEM3FMM2Z4Vy8rWHRLOGpxVnA2RUc1VUlJN1BBYm1Db3AvOEZKZ0k2NkFjVkFPYW9LWCtSVXE%3D
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="•央视「频道」",CCTV-9 纪录
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNUJvSVNaZ0Zad3VWOW94Z2R0a3VvNlk0blhEQmVyV25COUpKZjRMNXQwZTcwWjlvTUppTHdSc1lQaFJoSXJ6ZGovektTM0lmb1BRVElQR2NaSmdVenM%3D
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="•央视「频道」",CCTV-10 科教
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN3Vmc0JVd3J2ZzkyTWdGL0JWUUVGNlVSYTVlM1dnenBYaUdsTW9OVHZ2bW5iNGRmN3BaRXhGMi9MTHJ1N1B6Y2lSQ216dVc0N0hlZndhUThNSGhRcjc%3D
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="•央视「频道」",CCTV-11 戏曲
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNkc1bi9FVzRJbWNnbUl3VzloWmFwQ2pOSEZrL0NIdS9oMTlrYzdnK2lVbk1UZ3FPb0NYbStUc1lTcDM5TkxZZWdUcHh5eUFOWGQ1Z3lxOWVjeDB6Z3A%3D
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="•央视「频道」",CCTV-12 社会与法
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNjUrRGxXczJUVFFCYzlPUGhFUE1JK1JveWRUNnRERXQrand2TmduM1RXWHdIOTZpU2Y4a3QvUkhWYzVIQlk4R0pyK2dmWFM2ZVFxVUlmcURjNkpoZFY%3D
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="•央视「频道」",CCTV-13 新闻
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNFNkMzRDNDJkTXlpUG5HdnBndGtKcksvQm1wTE5pOXpuazAzdU15N3NMb2JsakIxZzBaRGV4ZDNRbjlGbi9hTUgzOTZkdEVaQVBUZFJzZkdOMU9odlM%3D
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="•央视「频道」",CCTV-14 少儿
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNXAxcGlkTitGTng1N01CaEZoQ0xMWjFwYnhVc2JzK1JFWTlNU3N5bUxmaG43U3ZodnExbmdpdW5vK1FkSmJpYldVSDZqNWpQU1VvYjFhQXBpNXZ4Mlc%3D
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="•央视「频道」",CCTV-15 音乐
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaN3A2eDNkcFJKNDkrTWcyL09SdUhER1MrL24vMjRDSTZkTXhhTlZyU3pDTitHWnhHQXE1ZXFlZ1owWm1QTTVwc0RYL2ZhT0hCUm9kbHg0TzZzV1BNTlg%3D
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="•央视「频道」",CCTV-17 农业农村
+https://feiyang.wangdu.site/decrypt_m3u.php?url=Ym5iekVjUWd5N0g2YVNaVzRYbFpUN3o5SVQrdkE1RDFhbTl5VmpjUFlaNmxWbmZLaEhpbzFDb1ViUlVDbjRxZ0U1aDZwRnFhdXlrT1ZCVStNb3NYbVE4a1o3N3JIS1k5eG9hVDhld2ZFdG9TTXd3aU9Kc3lpZGtZdXBLNER1azg%3D
+#•央视「频道」
 
 
-#咪咕「TV」
+#•咪咕「TV」
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg-1.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg-1.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -192,15 +186,15 @@ https://tv.iill.top/migu/jddh
 https://tv.iill.top/migu/xdll
 #EXTINF:-1 tvg-id="钱塘江" tvg-name="钱塘江" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",钱塘江
 https://tv.iill.top/migu/qtj
-#咪咕「TV」
+#•咪咕「TV」
 
 
-#咪咕赛程
+#•咪咕「赛程」
 
-#咪咕赛程
+#•咪咕「赛程」
 
 
-#咪咕直播
+#•咪咕「移动」」
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚
@@ -277,10 +271,10 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟠
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#咪咕直播
+#•咪咕「移动」」
 
 
-#港澳
+#•港澳「频道」
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="•港澳「频道」",凤凰中文
 https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTnZCWkI1U2RhV25UaTVUdWppczExSg%3D%3D
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="•港澳「频道」",凤凰资讯
@@ -401,7 +395,7 @@ https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wx
 https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVUGJsclFNREpYSmx3RzJQYzE4Wi83eQ%3D%3D
 #EXTINF:-1 tvg-id="美亚电影(港)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="•港澳「频道」",美亚电影(港)
 https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTjUzNGh4dWQxNHBlWXZEWWFRYWVpaA%3D%3D
-#EXTINF:-1 tvg-id="中国电影" tvg-name="中国电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国电影.png" group-title="•港澳「频道」",中国电影
+#EXTINF:-1 tvg-id="中国电影" tvg-name="中国•影视「轮播」" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国电影.png" group-title="•港澳「频道」",中国电影
 https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTStGMEQrUkQwbERQY0VPaDVFTndiTw%3D%3D
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="•港澳「频道」",重温经典
 https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTmlCOE5DMlFJK3ozdG04UVhvYi9IOQ%3D%3D
@@ -682,5 +676,5 @@ https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wx
 #EXTINF:-1 tvg-id="Z频道" tvg-name="Z频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="•港澳「频道」",Z频道
 https://feiyang.wangdu.site/decrypt_m3u.php?url=TUhxRDJMSExXbG16WC9sTlZpRkN3R0wxVlZEVVRmcUgvWHNoQ0o3eGtVTWFDSnFxdlMwaEhTY0EyOEZ6WFEvQg%3D%3D
 #EXTINF:-1 tvg-id="HOP_Sports" group-title="•港澳「频道」",HOP_Sports
-#港澳
+#•港澳「频道」
 
