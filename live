@@ -9,9 +9,9 @@
       "playerType": 1
     },
     {
-      "name": "全部频道",
+      "name": "咪咕视频",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/iptv",
+      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/migu_video",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
@@ -19,7 +19,7 @@
     {
       "name": "咪咕直播",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/migu",
+      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/migu_sports",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
