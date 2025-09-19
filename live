@@ -3,7 +3,7 @@
     {
       "name": "TV",
       "type": 0,
-      "url": "http://123.56.43.183/tv/m3u/tv",
+      "url": "https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/tv",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
@@ -11,7 +11,7 @@
     {
       "name": "咪咕视频",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/develop202/migu_video@refs/heads/main/interface.txt",
+      "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
