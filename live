@@ -3,7 +3,7 @@
     {
       "name": "TV",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/tv",
+      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/tv.txt",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
