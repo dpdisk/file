@@ -3,7 +3,7 @@
     {
       "name": "TV",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/tv",
+      "url": "http://123.56.43.183/tv/m3u/tv",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
@@ -19,7 +19,7 @@
     {
       "name": "咪咕直播",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/dpdisk/file@refs/heads/main/migu_sports",
+      "url": "http://123.56.43.183/tv/m3u/migu_sports",
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "playerType": 1
