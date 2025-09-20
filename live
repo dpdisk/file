@@ -142,7 +142,7 @@
 "ads":["mozai.4gtv.tv"],
 
 "lives":[
-{"name":"TV","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/tv","playerType":2,"timeout":10},
+{"name":"TV","type":0,"url":"https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/tv","playerType":2,"timeout":10},
 {"name":"咪咕视频","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/migu_video","playerType":2,"timeout":10},
 {"name":"咪视界","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/dpdisk/file/refs/heads/main/migu_sports","playerType":2,"timeout":10},
 {"name":"冰茶TV","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://fy.188766.xyz/?ip=&mima=699144377","playerType":2,"timeout":10}
@@ -195,3 +195,4 @@
 ]
 
 }
+
