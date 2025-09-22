@@ -27,7 +27,7 @@ http://123.56.43.183:35455/huya/30080251
 http://123.56.43.183:35455/huya/11342429
 #EXTINF:-1 tvg-logo="http://123.56.43.183/icon/huya.png" group-title="•影视「轮播」",许冠英
 http://123.56.43.183:35455/huya/11601972
-#EXTINF:-1 tvg-logo="http://123.56.43.183/icon/huya.png" group-title="•影视「轮播」",刘德华
+#EXTINF:-2 tvg-logo="http://123.56.43.183/icon/huya.png" group-title="•影视「轮播」",刘德华
 http://123.56.43.183:35455/huya/11342424
 #EXTINF:-1 tvg-logo="http://123.56.43.183/icon/huya.png" group-title="•影视「轮播」",斯坦森
 http://123.56.43.183:35455/huya/21059588
@@ -458,4 +458,5 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=Fifa
 #•港澳「频道」
 
 #•港澳「频道」
+
 
